@@ -1,0 +1,12 @@
+[
+  { "name": "BPC-157", "notation": "GEPPPGKPADDAGLV", "referenceAverageMass": 1419.5, "product": "bpc-157-5mg", "library": "bpc-157" },
+  { "name": "KPV", "notation": "Lys-Pro-Val", "referenceAverageMass": 342.43, "product": "kpv-10mg", "library": "kpv" },
+  { "name": "Selank", "notation": "TKPRPGP", "referenceAverageMass": 751.9, "product": "selank-10mg", "library": "selank" },
+  { "name": "Semax", "notation": "MEHFPGP", "referenceAverageMass": 813.9, "product": "semax-10mg", "library": "semax" },
+  { "name": "Epithalon", "notation": "Ala-Glu-Asp-Gly", "referenceAverageMass": 390.35, "product": "epithalon-10mg", "library": "epithalon" },
+  { "name": "DSIP", "notation": "Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu", "referenceAverageMass": 848.8, "product": "dsip-10mg", "library": "dsip" },
+  { "name": "PE-22-28", "notation": "GVSWGLR", "referenceAverageMass": 773.9, "product": "pe-22-28-10mg", "library": null },
+  { "name": "Pinealon", "notation": "Glu-Asp-Arg", "referenceAverageMass": 418.4, "product": "pinealon-10mg", "library": null },
+  { "name": "Vesugen", "notation": "Lys-Glu-Asp", "referenceAverageMass": 390.39, "product": "vesugen-20mg", "library": null },
+  { "name": "Cortagen", "notation": "Ala-Glu-Asp-Pro", "referenceAverageMass": 430.4, "product": "cortagen-20mg", "library": null }
+]

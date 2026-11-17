@@ -1,0 +1,21 @@
+{
+  "name": "peptide-chemistry-toolkit",
+  "version": "1.0.0",
+  "description": "Peptide chemistry in plain functions: residue masses, monoisotopic mass, net charge, isoelectric point, hydropathy, A280 extinction coefficients, counterion and net peptide content, b/y fragment ions, and a strict sequence reader.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": { ".": { "types": "./dist/index.d.ts", "default": "./dist/index.js" } },
+  "files": ["dist", "src"],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  },
+  "keywords": ["peptide", "chemistry", "mass-spectrometry", "isoelectric-point", "molecular-weight", "extinction-coefficient", "hplc", "proteomics", "bioinformatics"],
+  "author": "Volta Peptides (https://voltapeptides.com)",
+  "homepage": "https://voltapeptides.com/catalog",
+  "repository": { "type": "git", "url": "git+https://github.com/teamcobleio-cyber/Peptide-Chemistry-Toolkit.git" },
+  "bugs": { "url": "https://github.com/teamcobleio-cyber/Peptide-Chemistry-Toolkit/issues" },
+  "license": "MIT",
+  "devDependencies": { "typescript": "^5.6.0" }
+}
